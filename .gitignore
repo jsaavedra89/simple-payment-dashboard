@@ -5,7 +5,6 @@ backend/*.log
 # ===== FRONTEND =====
 frontend/node_modules/
 frontend/dist/
-frontend/.env
 
 # ===== GENERAL =====
 .DS_Store
