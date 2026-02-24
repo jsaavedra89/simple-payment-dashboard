@@ -49,7 +49,7 @@ Todo se ejecuta dentro de contenedores.
 
 1️⃣ Clonar el repositorio:
 
-- git clone git@github.com:jsaavedra89/simple-payment-dashboard.git
+- git clone git@github.com:jsaavedra89/simple-payment.git
 - cd simple-payment
 
 2️⃣ Construir y levantar todos los servicios:
